@@ -11,7 +11,7 @@ int main()
         if (n % i == 0)
         {
             cout << i << " ";
-            if( i!= n/i) cout<< n / i << " ";
+            if( i!= n/i) cout<< n / i << " "; 
         }
     }
 }

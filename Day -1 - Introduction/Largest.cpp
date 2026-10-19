@@ -9,7 +9,7 @@ int main()
     {
         cout << "Number a is largest";
     }
-    else if (num2 > num3)
+    else if (num2 > num3 )
     {
         cout << "number b is largest";
     }
